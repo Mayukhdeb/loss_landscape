@@ -8,3 +8,4 @@ It is not necessary here to train a good model from the datase, the objective is
 
 After training the model on the first 2 columns of the iris dataset, I plotted out the loss values with respect to the varying outputs in  hidden layer 2. Since this was done after the model was trained, we can ignore the subsequent layers and visualise the loss with respect to outputs from hidden layer 2. 
 
+<img src = "images/iris_vis.png" width = "900">
